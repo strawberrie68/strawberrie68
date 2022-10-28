@@ -28,7 +28,7 @@
 <h3 align="left">👩‍💻 Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=xd,autocad,git,html,js,py,nodejs,mongodb,css,vscode,r,express,figma,github,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xd,autocad,git,html,js,py,nodejs,mongodb,css,vscode,r,express,figma,github,bootstrap&theme=dark)](https://skillicons.dev)
 <br>
 <br>
 ---
