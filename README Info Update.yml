@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: th3c0d3br34ker/github-readme-info@master
         with:
-          GH_TOKEN: ${{ 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 }}
-          TIMEZONE: "America/Los_Angeles"
+          GH_TOKEN: ${{ secrets.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 }}
+          TIMEZONE: "Asia/Kolkata"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_DAILY_COMMIT: "True"
