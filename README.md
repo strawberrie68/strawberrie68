@@ -1,12 +1,13 @@
 <img src="loop-space.gif" width="100%" height="150px">
+<br>
+
 <h3 align="center">
   Hi 👋, Welcomt to Michelle Wong's Profile
-  
 </h3>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=F3408D&center=true&vCenter=true&width=500&lines=A+UX%2FUI+Designer;Full+Stacked+Software+Developer;Never+Stop+Learning;Learn+By+Doing%2C+And+by+Falling+Over">
   </p>
-
 <h3 align="center">A passionate full stacked software developer from Vancouver</h3>
+<br>
 
 - 🔭 I’m currently working on [Animal Crossing Jukebox](https://strawberrie68.github.io/AnimalCrossing/index.html)
 
