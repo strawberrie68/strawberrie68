@@ -44,4 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawberrie68&show_icons=true&locale=en&theme=radical" width="40%" min-width="400px" alt="strawberrie68" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strawberrie68&theme=radical" alt="strawberrie68" width="40%" min-width="400px"/></p>
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 
