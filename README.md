@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Michelle</h1>
+<h3 align="center">
+  Hi 👋, Welcomt to Michelle Wong's Profile
+  
+</h3>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=F3408D&center=true&vCenter=true&width=500&lines=A+UX%2FUI+Designer;Full+Stacked+Software+Developer;Never+Stop+Learning;Learn+By+Doing%2C+And+by+Falling+Over">
+  </p>
+
 <h3 align="center">A passionate full stacked software developer from Vancouver</h3>
 
 - 🔭 I’m currently working on [Animal Crossing Jukebox](https://strawberrie68.github.io/AnimalCrossing/index.html)
@@ -34,6 +40,6 @@
 ---
 ### 🔥 My Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawberrie68&show_icons=true&locale=en&theme=radical" width="40%" alt="strawberrie68" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strawberrie68&theme=radical" alt="strawberrie68" width="40%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawberrie68&show_icons=true&locale=en&theme=radical" width="40%" min-width="400px" alt="strawberrie68" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strawberrie68&theme=radical" alt="strawberrie68" width="40%" min-width="400px"/></p>
 
 
