@@ -73,7 +73,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,23 +86,7 @@
  > 
 > 🔑 1 Private Repository 
  > 
-**I Mostly Code in C** 
 
-```text
-C                        2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/strawberrie68/strawberrie68/main/charts/bar_graph.png) 
-
-
- Last Updated on 30/10/2022 04:59:40 UTC
 <!--END_SECTION:waka-->
 
 
