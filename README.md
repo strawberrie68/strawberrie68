@@ -68,6 +68,7 @@
 <!--END_SECTION:readme-info-->
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/andresemedan/Group-Tic-Tac-Toe/pull/1) in [andresemedan/Group-Tic-Tac-Toe](https://github.com/andresemedan/Group-Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
