@@ -70,7 +70,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/andresemedan/Group-Tic-Tac-Toe/pull/1) in [andresemedan/Group-Tic-Tac-Toe](https://github.com/andresemedan/Group-Tic-Tac-Toe)
+1. 💪 Opened PR [#59641](https://github.com/firstcontributions/first-contributions/pull/59641) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 
 <!--END_SECTION:activity-->
 
