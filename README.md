@@ -70,7 +70,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59641](https://github.com/firstcontributions/first-contributions/pull/59641) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❌ Closed PR [#5](https://github.com/strawberrie68/AnimalCrossing/pull/5) in [strawberrie68/AnimalCrossing](https://github.com/strawberrie68/AnimalCrossing)
 
 <!--END_SECTION:activity-->
 
