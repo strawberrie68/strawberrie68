@@ -70,7 +70,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/strawberrie68/AnimalCrossing/pull/5) in [strawberrie68/AnimalCrossing](https://github.com/strawberrie68/AnimalCrossing)
+1. 🎉 Merged PR [#6](https://github.com/strawberrie68/AnimalCrossing/pull/6) in [strawberrie68/AnimalCrossing](https://github.com/strawberrie68/AnimalCrossing)
 
 <!--END_SECTION:activity-->
 
