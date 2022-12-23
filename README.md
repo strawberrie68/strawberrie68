@@ -66,13 +66,13 @@
 
 
 <!--END_SECTION:readme-info-->
----
+<!-- ---
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/strawberrie68/AnimalCrossing/pull/6) in [strawberrie68/AnimalCrossing](https://github.com/strawberrie68/AnimalCrossing)
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
