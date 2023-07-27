@@ -34,7 +34,9 @@
 </p>
 
 ---
-<h3 align="left">✨ Projects</h3>
+
+<br />
+<h1 align="left">✨ P R O J E C T S ✨</h1>
 
 <table bordercolor="#66b2b2">
 <tbody>
@@ -110,12 +112,12 @@
          <h4 align="center">Animal Crossing Jukebox</h4>
       <br />
       <a target="_blank" href="https://strawberrie68.github.io/AnimalCrossing/index.html">
-        <img src="images/gif3.gif" width="100%" alt="Matching Cards" />
+        <img src="https://s11.gifyu.com/images/ScH7b.md.gif" width="100%" alt="Matching Cards" />
       </a>
       <br />
       <p align="center">
         <a href="https://strawberrie68.github.io/AnimalCrossing/index.html" target="_blank">
-          <kbd> 🕹️ D E M O </kbd>
+          <kbd> 🎧 D E M O </kbd>
         </a>
         <a href="https://github.com/strawberrie68/AnimalCrossing" target="_blank">
           <kbd>
@@ -131,8 +133,6 @@
 </tbody>
 </table>
 
-
-
 ---
 <h3 align="left">👩‍💻 Languages and Tools:</h3>
 
@@ -141,6 +141,11 @@
 <br>
 <br>
 ---
+
+
+
+---
+
 ### 🔥 My Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawberrie68&show_icons=true&locale=en&theme=radical" width="40%" min-width="400px" alt="strawberrie68" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strawberrie68&theme=radical" alt="strawberrie68" width="40%" min-width="400px"/></p>
