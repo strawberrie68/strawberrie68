@@ -120,7 +120,7 @@
          <h4 align="center">💽 A N I M A L  C R O S S I N G - JUKEBOX</h4>
       <br />
       <a target="_blank" href="https://strawberrie68.github.io/AnimalCrossing/index.html">
-        <img src="https://s11.gifyu.com/images/ScH7b.md.gif" width="100%" alt="Matching Cards" />
+        <img src="https://s12.gifyu.com/images/ScHnl.gif" width="100%" alt="Matching Cards" />
       </a>
       <br />
       <p align="center">
