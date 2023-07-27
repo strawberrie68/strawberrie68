@@ -39,17 +39,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=xd,autocad,git,html,js,py,nodejs,mongodb,css,vscode,r,express,figma,github,bootstrap&theme=dark)](https://skillicons.dev)
 <br>
-<br>
----
+<be>
 
+---
 <br />
 <h1 align="left">✨ P R O J E C T S ✨</h1>
 
 <table bordercolor="#66b2b2">
 <tbody>
 <tr>
-  <td width="50%" valign="top">&nbsp;
-    <h4 align="center">Flour Bakery Order System</h4>
+  <td width="25%" valign="top">
+    <h4 align="center">🍞 F L O U R  B A K E R Y  - ORDER SYSTEM </h4>
       <br />
       <a target="_blank" href="https://flour-order-system.netlify.app/">
         <img src="https://s12.gifyu.com/images/ScH96.gif" width="100%"  alt="Project 1" />
@@ -71,8 +71,8 @@
      
   </td>
   
-  <td width="50%" valign="top">
-         <h4 align="center">Highlights Anki</h4>
+  <td width="25%" valign="top">
+         <h4 align="center">📖 H I G H L I G H T S - A N K I</h4>
       <br />
       <a target="_blank" href="https://highlights-co.netlify.app/">
         <img src="https://s11.gifyu.com/images/ScHEH.gif" width="100%" alt="Project 1" />
@@ -93,11 +93,11 @@
         you read.</p>
     
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-         <h4 align="center">Memory Game</h4>
+
+  <td width="25%" valign="top">
+         <h4 align="center">🎮 M E M O R Y G A M E</h4>
       <br />
+    &nbsp;
       <a target="_blank" href="https://strawberrie68.github.io/memory-game/">
         <img src="https://s11.gifyu.com/images/ScHEw.gif" width="100%" alt="Portfolio" />
       </a>
@@ -115,8 +115,8 @@
       </p>
       <p><strong>HTML5, CSS3, & Javascript</strong> - Simple Memory Game inspired by nintendo</p>
   </td>
-  <td width="50%" valign="top">
-         <h4 align="center">Animal Crossing Jukebox</h4>
+  <td width="25%" valign="top">
+         <h4 align="center">💽 A N I M A L  C R O S S I N G - JUKEBOX</h4>
       <br />
       <a target="_blank" href="https://strawberrie68.github.io/AnimalCrossing/index.html">
         <img src="https://s11.gifyu.com/images/ScH7b.md.gif" width="100%" alt="Matching Cards" />
@@ -139,8 +139,7 @@
 </tr>
 </tbody>
 </table>
-
-
+</br>
 
 ---
 
