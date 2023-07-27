@@ -34,6 +34,106 @@
 </p>
 
 ---
+<h3 align="left">✨ Projects</h3>
+
+<table bordercolor="#66b2b2">
+<tbody>
+<tr>
+  <td width="50%" valign="top">&nbsp;
+    <h4 align="center">Flour Bakery Order System</h4>
+      <br />
+      <a target="_blank" href="https://flour-order-system.netlify.app/">
+        <img src="https://s12.gifyu.com/images/ScH96.gif" width="100%"  alt="Project 1" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://flour-order-system.netlify.app" target="_blank">
+          <kbd> 🎂 D E M O </kbd>
+        </a>
+        <a href="https://github.com/strawberrie68/bakery-thing" target="_blank">
+          <kbd>
+            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="11px" />
+            R E P O
+          </kbd>
+        </a>
+      </p>
+      <p><strong>Javascript, Tailwind, React, Redux </strong> - Platform to help create an order system for a bakery
+        systemize and easier</p>
+     
+  </td>
+  
+  <td width="50%" valign="top">
+         <h4 align="center">Highlights Anki</h4>
+      <br />
+      <a target="_blank" href="https://highlights-co.netlify.app/">
+        <img src="https://s11.gifyu.com/images/ScHEH.gif" width="100%" alt="Project 1" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://highlights-co.netlify.app/" target="_blank">
+          <kbd> 📝 D E M O </kbd>
+        </a>
+        <a href="https://github.com/strawberrie68/highlights/tree/auth3" target="_blank">
+          <kbd>
+            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="12px" />
+            R E P O
+          </kbd>
+        </a>
+      </p>
+      <p><strong>Javascript, Tailwind, React </strong> - Upgraded version of Anki for book notes. Remember everything
+        you read.</p>
+    
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+         <h4 align="center">Memory Game</h4>
+      <br />
+      <a target="_blank" href="https://strawberrie68.github.io/memory-game/">
+        <img src="https://s11.gifyu.com/images/ScHEw.gif" width="100%" alt="Portfolio" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://strawberrie68.github.io/memory-game/" target="_blank">
+          <kbd> 🕹️ D E M O </kbd>
+        </a>
+        <a href="https://github.com/strawberrie68/memory-game" target="_blank">
+          <kbd>
+            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="12px" />
+            R E P O
+          </kbd>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, & Javascript</strong> - Simple Memory Game inspired by nintendo</p>
+  </td>
+  <td width="50%" valign="top">
+         <h4 align="center">Animal Crossing Jukebox</h4>
+      <br />
+      <a target="_blank" href="https://strawberrie68.github.io/AnimalCrossing/index.html">
+        <img src="images/gif3.gif" width="100%" alt="Matching Cards" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://strawberrie68.github.io/AnimalCrossing/index.html" target="_blank">
+          <kbd> 🕹️ D E M O </kbd>
+        </a>
+        <a href="https://github.com/strawberrie68/AnimalCrossing" target="_blank">
+          <kbd>
+            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="12px" />
+            R E P O
+          </kbd>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, & Javascript</strong> - Animal Crossing Jukebox Player for chill days</p>
+    
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+---
 <h3 align="left">👩‍💻 Languages and Tools:</h3>
 
 
@@ -121,4 +221,6 @@ CSS                      1 repo              ███░░░░░░░░�
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+
 
