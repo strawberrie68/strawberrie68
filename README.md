@@ -62,7 +62,7 @@
         </a>
         <a href="https://github.com/strawberrie68/bakery-thing" target="_blank">
           <kbd>
-            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="11px" />
+            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="11px" />
             R E P O
           </kbd>
         </a>
@@ -85,7 +85,7 @@
         </a>
         <a href="https://github.com/strawberrie68/highlights/tree/auth3" target="_blank">
           <kbd>
-            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="12px" />
+            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
             R E P O
           </kbd>
         </a>
@@ -109,7 +109,7 @@
         </a>
         <a href="https://github.com/strawberrie68/memory-game" target="_blank">
           <kbd>
-            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="12px" />
+            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
             R E P O
           </kbd>
         </a>
@@ -129,7 +129,7 @@
         </a>
         <a href="https://github.com/strawberrie68/AnimalCrossing" target="_blank">
           <kbd>
-            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" height="12px" />
+            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
             R E P O
           </kbd>
         </a>
