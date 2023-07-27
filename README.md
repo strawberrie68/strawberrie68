@@ -34,6 +34,13 @@
 </p>
 
 ---
+<h3 align="left">👩‍💻 Languages and Tools:</h3>
+
+
+[![My Skills](https://skillicons.dev/icons?i=xd,autocad,git,html,js,py,nodejs,mongodb,css,vscode,r,express,figma,github,bootstrap&theme=dark)](https://skillicons.dev)
+<br>
+<br>
+---
 
 <br />
 <h1 align="left">✨ P R O J E C T S ✨</h1>
@@ -132,15 +139,6 @@
 </tr>
 </tbody>
 </table>
-
----
-<h3 align="left">👩‍💻 Languages and Tools:</h3>
-
-
-[![My Skills](https://skillicons.dev/icons?i=xd,autocad,git,html,js,py,nodejs,mongodb,css,vscode,r,express,figma,github,bootstrap&theme=dark)](https://skillicons.dev)
-<br>
-<br>
----
 
 
 
