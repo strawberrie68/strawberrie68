@@ -67,7 +67,7 @@
           </kbd>
         </a>
       </p>
-      <p><strong>Typescript, Vite, Redux</strong> - Get your personalized skincare products and skincare routine for your skintype</p>
+      <p><strong>Typescript, Vite, Redux</strong> - Get your personalized skincare products and routine for your unique skintype</p>
     
   </td>
   <td width="25%" valign="top">
