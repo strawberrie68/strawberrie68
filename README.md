@@ -49,11 +49,32 @@
 <table bordercolor="#66b2b2">
 <tbody>
 <tr>
+    <td width="25%" valign="top">
+         <h4 align="center">🛍️ S K I N C A R E - SHOP </h4>
+      <br />
+      <a target="_blank" href="https://github.com/strawberrie68/Skincare-Shop/tree/main">
+        <img src="https://s11.gifyu.com/images/SgPoM.gif" width="100%" alt="Matching Cards" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://dailyskincare.netlify.app/" target="_blank">
+          <kbd> 🛒 D E M O </kbd>
+        </a>
+        <a href="https://github.com/strawberrie68/Skincare-Shop/tree/main" target="_blank">
+          <kbd>
+            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
+            R E P O
+          </kbd>
+        </a>
+      </p>
+      <p><strong>Typescript, Vite, Redux</strong> - Get your personalized skincare products and skincare routine for your skintype</p>
+    
+  </td>
   <td width="25%" valign="top">
     <h4 align="center">🍞 F L O U R  B A K E R Y  - ORDER SYSTEM </h4>
       <br />
       <a target="_blank" href="https://flour-order-system.netlify.app/">
-        <img src="https://s12.gifyu.com/images/ScH96.gif" width="100%"  alt="Project 1" />
+        <img src="https://s11.gifyu.com/images/SgPAq.gif" width="100%"  alt="Project 1" />
       </a>
       <br />
       <p align="center">
@@ -115,27 +136,6 @@
         </a>
       </p>
       <p><strong>HTML5, CSS3, & Javascript</strong> - Simple Memory Game inspired by nintendo</p>
-  </td>
-  <td width="25%" valign="top">
-         <h4 align="center">💽 A N I M A L  C R O S S I N G - JUKEBOX</h4>
-      <br />
-      <a target="_blank" href="https://strawberrie68.github.io/AnimalCrossing/index.html">
-        <img src="https://s12.gifyu.com/images/ScHnl.gif" width="100%" alt="Matching Cards" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://strawberrie68.github.io/AnimalCrossing/index.html" target="_blank">
-          <kbd> 🎧 D E M O </kbd>
-        </a>
-        <a href="https://github.com/strawberrie68/AnimalCrossing" target="_blank">
-          <kbd>
-            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
-            R E P O
-          </kbd>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong> - Animal Crossing Jukebox Player for chill days</p>
-    
   </td>
 </tr>
 </tbody>
