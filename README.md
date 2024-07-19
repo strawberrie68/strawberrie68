@@ -8,14 +8,18 @@
 </h3>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=F3408D&center=true&vCenter=true&width=500&lines=A+UX%2FUI+Designer;Full+Stacked+Software+Developer;Never+Stop+Learning;Learn+By+Doing%2C+And+by+Falling+Over">
   </p>
-<h3 align="center">A passionate full stacked software developer from Vancouver</h3>
+<h3 align="center">A passionate full stack software developer from Vancouver</h3>
 <br>
 
-- 🔭 I’m currently working on [Animal Crossing Jukebox](https://strawberrie68.github.io/AnimalCrossing/index.html)
+- 🔭 I’m currently working on [AI Journal](https://clarity-lime.vercel.app/)
+
+- 🌱 I’m currently learning **Typescript**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://michelle-wong-yvr.netlify.app/)
 
 - 🤝 I’m looking for help with [Low/Carb GL Recipe Finder](https://github.com/strawberrie68/lowGL)
-
-- 👨‍💻 All of my projects are available at [https://michellewong.netlify.app/](https://michellewong.netlify.app/)
+  
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **mwong3a@gmail.com**
 
@@ -224,6 +228,7 @@ CSS                      1 repo              ███░░░░░░░░�
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
 
 
 
