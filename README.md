@@ -54,6 +54,27 @@
 <tbody>
 <tr>
     <td width="25%" valign="top">
+         <h4 align="center">🧠 A I   J O U R N A L</h4>
+      <br />
+    &nbsp;
+      <a target="_blank" href="https://github.com/strawberrie68/ai-clarity-journal">
+        <img src="https://github.com/strawberrie68/strawberrie68/blob/main/clarity.gif" width="90%" alt="Portfolio" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://clarity-git-develop-strawberrie68s-projects.vercel.app/" target="_blank">
+          <kbd> 🕹️ D E M O </kbd>
+        </a>
+        <a href="https://github.com/strawberrie68/ai-clarity-journal" target="_blank">
+          <kbd>
+            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
+            R E P O
+          </kbd>
+        </a>
+      </p>
+      <p><strong>Next.js, OpenAI, MongoDB and Javascript </strong> - AI-powered journal to help clarify your mind</p>
+  </td>
+    <td width="25%" valign="top">
          <h4 align="center">🛍️ S K I N C A R E - SHOP </h4>
       <br />
       <a target="_blank" href="https://github.com/strawberrie68/Skincare-Shop/tree/main">
@@ -101,7 +122,7 @@
          <h4 align="center">📖 H I G H L I G H T S - A N K I</h4>
       <br />
       <a target="_blank" href="https://highlights-co.netlify.app/">
-        <img src="https://s11.gifyu.com/images/ScHEH.gif" width="100%" alt="Project 1" />
+        <img src="https://github.com/strawberrie68/strawberrie68/blob/main/Highlights.gif" width="100%" alt="Project 1" />
       </a>
       <br />
       <p align="center">
@@ -120,27 +141,6 @@
     
   </td>
 
-  <td width="25%" valign="top">
-         <h4 align="center">🎮 M E M O R Y G A M E</h4>
-      <br />
-    &nbsp;
-      <a target="_blank" href="https://strawberrie68.github.io/memory-game/">
-        <img src="https://s11.gifyu.com/images/ScHEw.gif" width="100%" alt="Portfolio" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://strawberrie68.github.io/memory-game/" target="_blank">
-          <kbd> 🕹️ D E M O </kbd>
-        </a>
-        <a href="https://github.com/strawberrie68/memory-game" target="_blank">
-          <kbd>
-            <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
-            R E P O
-          </kbd>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong> - Simple Memory Game inspired by nintendo</p>
-  </td>
 </tr>
 </tbody>
 </table>
