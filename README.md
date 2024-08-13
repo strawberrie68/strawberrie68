@@ -62,7 +62,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="https://clarity-git-develop-strawberrie68s-projects.vercel.app/" target="_blank">
+        <a href="clarity-hkweiiwt7-strawberrie68s-projects.vercel.app" target="_blank">
           <kbd> 🕹️ D E M O </kbd>
         </a>
         <a href="https://github.com/strawberrie68/ai-clarity-journal" target="_blank">
