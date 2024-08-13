@@ -72,7 +72,7 @@
           </kbd>
         </a>
       </p>
-      <p><strong>Next.js, OpenAI, MongoDB and Javascript </strong> - AI-powered journal to help clarify your mind</p>
+      <p><strong>Next.js, OpenAI, MongoDB and Typescript </strong> - AI-powered journal to help clarify your mind</p>
   </td>
     <td width="25%" valign="top">
          <h4 align="center">🛍️ S K I N C A R E - SHOP </h4>
