@@ -62,10 +62,10 @@
       </a>
       <br />
       <p align="center">
-        <a href="https://clarity-lime.vercel.app/login" target="_blank">
+        <a  target="_blank" href="https://clarity-lime.vercel.app/login" target="_blank">
           <kbd> 🕹️ D E M O </kbd>
         </a>
-        <a href="https://github.com/strawberrie68/ai-clarity-journal" target="_blank">
+        <a  target="_blank" href="https://github.com/strawberrie68/ai-clarity-journal" target="_blank">
           <kbd>
             <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
             R E P O
@@ -82,7 +82,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="https://dailyskincare.netlify.app/" target="_blank">
+        <a href="https://dailyskincare.netlify.app/"  target="_blank">
           <kbd> 🛒 D E M O </kbd>
         </a>
         <a href="https://github.com/strawberrie68/Skincare-Shop/tree/main" target="_blank">
