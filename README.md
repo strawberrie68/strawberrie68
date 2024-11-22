@@ -78,7 +78,7 @@
          <h4 align="center">🛍️ S K I N C A R E - SHOP </h4>
       <br />
       <a target="_blank" href="https://github.com/strawberrie68/Skincare-Shop/tree/main">
-        <img src="https://s11.gifyu.com/images/SgPoM.gif" width="100%" alt="Matching Cards" />
+       <img src="https://github.com/strawberrie68/strawberrie68/blob/main/SkincareShop.gif" width="90%" alt="Portfolio" />
       </a>
       <br />
       <p align="center">
@@ -99,7 +99,7 @@
     <h4 align="center">🍞 F L O U R  B A K E R Y  - ORDER SYSTEM </h4>
       <br />
       <a target="_blank" href="https://flour-order-system.netlify.app/">
-        <img src="https://s11.gifyu.com/images/SgPAq.gif" width="100%"  alt="Project 1" />
+         <img src="https://github.com/strawberrie68/strawberrie68/blob/main/FlourBakery.gif" width="90%" alt="flour bakery" />
       </a>
       <br />
       <p align="center">
