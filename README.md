@@ -57,15 +57,15 @@
          <h4 align="center">🧠 A I   J O U R N A L</h4>
       <br />
     &nbsp;
-      <a target="_blank" href="https://github.com/strawberrie68/ai-clarity-journal">
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/strawberrie68/ai-clarity-journal">
         <img src="https://github.com/strawberrie68/strawberrie68/blob/main/clarity.gif" width="90%" alt="Portfolio" />
       </a>
       <br />
       <p align="center">
-        <a  target="_blank" href="https://clarity-lime.vercel.app/login" target="_blank">
+        <a   href="https://clarity-lime.vercel.app/login" target="_blank" rel="noopener noreferrer">
           <kbd> 🕹️ D E M O </kbd>
         </a>
-        <a  target="_blank" href="https://github.com/strawberrie68/ai-clarity-journal" target="_blank">
+        <a  href="https://github.com/strawberrie68/ai-clarity-journal" target="_blank" rel="noopener noreferrer">
           <kbd>
             <img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" height="12px" />
             R E P O
